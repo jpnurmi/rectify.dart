@@ -1,0 +1,10 @@
+# This file tracks properties of this Flutter project.
+# Used by Flutter tool to assess capabilities and perform upgrades etc.
+#
+# This file should be version controlled and should not be manually edited.
+
+version:
+  revision: aedfd5a8992dde2c7d44808ad37056b9665e87f8
+  channel: tool-unescape-paths
+
+project_type: package
