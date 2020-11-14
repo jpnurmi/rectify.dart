@@ -1,6 +1,6 @@
 name: rectify
 description: >-
-  Extension methods to make Dart's Rect pleasant and convenient to work with.
+  Extension methods to make Rect pleasant and convenient to work with.
 version: 0.1.0
 homepage: https://github.com/jpnurmi/dart_rectify
 repository: https://github.com/jpnurmi/dart_rectify
