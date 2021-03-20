@@ -40,7 +40,7 @@ class pleasant and convenient to work with.
 To use this package, add `rectify` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/)
 and import the package:
 
-```
+```dart
 import 'package:rectify/rectify.dart';
 ```
 
