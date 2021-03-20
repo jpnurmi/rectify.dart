@@ -1,6 +1,8 @@
 import 'dart:math';
 import 'dart:ui';
 
+export 'dart:ui' show Offset, Rect, Size;
+
 extension Rectify on Rect {
   /// Returns a new rectangle with `dx1`, `dy1`, `dx2` and `dy2` added
   /// respectively to the existing coordinates of this rectangle.
