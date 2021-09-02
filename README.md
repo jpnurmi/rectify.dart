@@ -3,7 +3,7 @@
 [![pub](https://img.shields.io/pub/v/rectify.svg)](https://pub.dev/packages/rectify)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![build](https://github.com/jpnurmi/dart_rectify/workflows/build/badge.svg)
-[![codecov](https://codecov.io/gh/jpnurmi/dart_rectify/branch/master/graph/badge.svg)](https://codecov.io/gh/jpnurmi/dart_rectify)
+[![codecov](https://codecov.io/gh/jpnurmi/dart_rectify/branch/main/graph/badge.svg)](https://codecov.io/gh/jpnurmi/dart_rectify)
 
 Dart extension methods to make the [Rect](https://api.flutter.dev/flutter/dart-ui/Rect-class.html)
 class pleasant and convenient to work with.
